@@ -1,0 +1,25 @@
+{
+  "name": "laralix-favicons",
+  "version": "1.0.0",
+  "description": "Favicons extension for Laravel Elixir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laralix/favicons.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "favicons",
+    "gulp"
+  ],
+  "author": "Kyle Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laralix/favicons/issues"
+  },
+  "homepage": "https://github.com/laralix/favicons#readme"
+}
